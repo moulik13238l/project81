@@ -1,0 +1,16 @@
+h1{
+    color: aquamarine;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.body_background {
+    background-image: url("download.jfif");
+    background-position: center;
+    background-size: cover;
+}
+
+#my_canvas{
+    background-width: 10px;
+    background-color: antiquewhite;
+    border-style: dotted; 
+}
